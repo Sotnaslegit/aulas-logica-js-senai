@@ -1,0 +1,15 @@
+footer{
+    ul{
+        display: flex;
+        list-style: none;
+
+        li{
+            a{
+                color: #000;
+                &:hover{
+                    color: aquamarine;
+                }
+            }
+        }
+    }
+}
